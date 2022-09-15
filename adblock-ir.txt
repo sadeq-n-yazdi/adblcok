@@ -1,4 +1,5 @@
 !---------------Sorted alphabetically based on domain name--------------!
-||ad-management-cdn.yektanet.com*
+||ad-management-cdn.yektanet.com
+||www.entekhab.ir/files/adv/
 ad-management-cdn.yektanet.com
 *##*[data-src*="ad-management-cdn.yektanet.com"]
